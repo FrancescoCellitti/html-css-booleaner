@@ -1,4 +1,5 @@
 * {
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0px;
     box-sizing: border-box;
@@ -59,6 +60,7 @@ footer h4{
     color: gray;
 }
 .img1{
+    color: whitesmoke;
     background-image: url(img/monitor.jpg);
     width: 300px;
     height: 200px;
@@ -66,13 +68,17 @@ footer h4{
     margin-left: 10px;
 }
 .img2{
+    color: whitesmoke;
     background-image: url(img/graph.jpg);
     width: 300px;
     height: 200px;
     margin-top: 20px;
     margin-left: 10px;
     margin-bottom: 20px;
+   
 }
-footer  h3{
-    color: whitesmoke
+.dopo-lista span{
+    background-color: rgba(233, 236, 51, 0.895);
+    color: black;
 }
+
